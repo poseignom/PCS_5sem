@@ -35,10 +35,10 @@
    - Проверена работа горячей перезагрузки
 
 ### Скриншоты:
-1. Вывод команды `flutter doctor`
-2. Список устройств `flutter devices`
-3. Процесс создания проекта в PowerShell
-4. Запущенное приложение в эмуляторе
+1. Вывод команды `flutter doctor` flutter doctor.jpg
+2. Список устройств `flutter devices` flutter devices.jpg
+3. Процесс создания проекта в PowerShell process.jpg
+4. Запущенное приложение в эмуляторе my app.jpg
 
 ### Проблемы и решения:
 1. **Проблема**: Ошибка "Unable to find git in your PATH" при создании проекта
